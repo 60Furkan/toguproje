@@ -1,0 +1,20 @@
+{ "tokat" : [
+    { 
+        "isim" :"Ballıca Mağarası",
+         "aciklama":"Bol oksijen, Dağın tepesinden yaklaşık 300 metre aşağıya iniliyor",
+         "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/ballica.png"
+    },
+    {
+        "isim":"Tokat Kalesi",
+        "aciklama":"Dik ve sarp kayalar üzerine kurulu Kale, doğal bir hisar durumundadır.",
+        "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/kazgolu.png"
+    } 
+    {
+        "isim":"Tokat Yağlısı",
+        "aciklama":" Hamur işi lezzetlerinden olan, Tokat mutfağının en klasik ve sevilen tariflerinden biri ",
+        "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/kazgolu.png"
+    } 
+
+
+
+]}
